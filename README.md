@@ -67,3 +67,4 @@ This Java program prompts the user to enter a series of numbers and stores them 
 - Asks the user how many numbers they want to enter.
 - Collects and stores the numbers in an array.
 - Displays each entered number.
+
